@@ -1,0 +1,11 @@
+[[redirects]]
+from = "/index.html"
+to = "/기술면접 준비/001. 자바의 Generic.html"
+status = 200
+force=true
+
+[[redirects]]
+from = "/"
+to = "/기술면접 준비/001. 자바의 Generic.html"
+status = 200
+force=true
